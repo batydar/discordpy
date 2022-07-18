@@ -1,0 +1,1 @@
+TOKEN = open("info.txt", "r").read()
